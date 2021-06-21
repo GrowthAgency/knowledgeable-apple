@@ -4,8 +4,6 @@
 
 [Live Site Demo](https://knowledgeable-apple-04b32.netlify.app/)
 
-<img src="https://themes.stackbit.com/images/libris-demo-1024x768.png" width="600">
-
 
 ## Quick Start 🏎
 
