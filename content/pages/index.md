@@ -10,7 +10,7 @@ sections:
 
 
     actions:
-      - label: Get Started
+      - label: Découvrir les guides
         url: /docs
         style: primary
   - section_id: features
