@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Fonctionnalités
 weight: 2
 seo:
   title: Fonctionnalités
