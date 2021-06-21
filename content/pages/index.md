@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Legitbee - Documentation
-    image: images/5.jpg
+    image: /images/4de4giozzvi-1024x683 (1).jpg
     content: |+
       Retrouvez tous les guides et les explications sur la solution Legitbee
 
