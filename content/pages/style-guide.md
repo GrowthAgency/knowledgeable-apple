@@ -1,7 +1,8 @@
 ---
 title: Marketing & Design
 subtitle: Le guide
-image: images/5.jpg
+image: >-
+  /images/a-grayscale-woman-holding-a-sticky-note-with-a-hashtag-on-it-848x450.png
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
