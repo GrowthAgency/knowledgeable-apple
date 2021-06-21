@@ -62,10 +62,7 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: Legitbee
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: "**Rien ne se perd, tout se transmet**. L'ensemble de vos données patrimoniales, votre héritage numérique et vos souvenirs, les informations indispensables à vos héritiers. Tout est\_**organisé**,\_**sécurisé**\_et \\**transmis \\**le moment venu aux bénéficiaires de votre choix.\n\n\n"
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
