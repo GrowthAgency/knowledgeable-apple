@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Vue d'ensemble
 weight: 1
 seo:
   title: Overview
