@@ -94,7 +94,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: Sauvegarder votre avenir en quelques clics
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Vous décidez de votre futur en ligne
     actions:
       - label: Commencer maintenant
         url: /docs/getting-started/installation
