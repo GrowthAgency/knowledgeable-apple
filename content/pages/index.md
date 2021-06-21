@@ -64,7 +64,7 @@ sections:
     title: Legitbee
     content: "**Rien ne se perd, tout se transmet**. L'ensemble de vos données patrimoniales, votre héritage numérique et vos souvenirs, les informations indispensables à vos héritiers. Tout est\_**organisé**,\_**sécurisé**\_et \\**transmis \\**le moment venu aux bénéficiaires de votre choix.\n\n\n"
     actions:
-      - label: Commencer
+      - label: Découvrir
         url: /docs/getting-started/installation
         style: primary
   - section_id: features-two-col
